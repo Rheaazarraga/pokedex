@@ -22,7 +22,6 @@ The slide deck for this worshop can be found [here](https://docs.google.com/pres
 ---
 
 
-
 ## Applying JavaScript Fundamentals
 ---
 ### Creating a project
