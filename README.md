@@ -1,6 +1,6 @@
 # Basic Pokedex
 ---
-This repository was created by [Rhea Azarraga](https://github.com/Rheaazarraga) for the purpose of allowing students to create a basic Pokédex web application.
+This repository was created by [Rhea Azarraga](https://github.com/Rheaazarraga) during a Live-Online code along workshop hosted by Hack Reactor for the purpose of allowing students to create a basic Pokédex web application.
 
 ## DISCLAIMER
 ---
@@ -20,6 +20,16 @@ The slide deck for this worshop can be found [here](https://docs.google.com/pres
 
 ## Final Product
 ---
+
+<p align="center">
+   <img =
+   
+ ![pikachu](https://user-images.githubusercontent.com/84409001/132455069-cb4cc41c-5fe3-46d9-92eb-0a66af61873e.png)
+![jynx](https://user-images.githubusercontent.com/84409001/132455980-cf8c65df-cbef-4005-ab05-3852cd31c135.png)
+![jugglypuff](https://user-images.githubusercontent.com/84409001/132454895-ace7134e-7aea-47fd-8e9a-c4f6a9e222de.png)
+![lapras](https://user-images.githubusercontent.com/84409001/132454905-cd7dabb6-393e-4988-9512-a57cb3200356.png)
+![snorlax](https://user-images.githubusercontent.com/84409001/132454910-7789fe28-a96f-4632-987b-b9a0e5669647.png) 
+</p>
 
 
 ## Applying JavaScript Fundamentals
